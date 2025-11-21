@@ -1,0 +1,2 @@
+# omnimindai
+omnimind ai
